@@ -1,0 +1,30 @@
+# Ignore .env files
+.env
+
+# Ignore all JSON files
+*.json
+
+# Ignore Python compiled files
+*.pyc
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment directories
+venv/
+env/
+myenv/
+
+# Ignore system files (example: macOS)
+.DS_Store
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore IDE/project-specific files (example: VSCode)
+.vscode/
+.idea/
